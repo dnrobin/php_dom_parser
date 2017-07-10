@@ -1,0 +1,3 @@
+- Add high level parsers (ex. table) to check for HTML5 allowable children! (and mismatched end tags...)
+
+- Add proper dom_node_element find/replace mechanisms to transform elements on the fly!
